@@ -24,7 +24,11 @@
 
 *Interior For Me is a fully functional iOS application that allows users to set their design preferences, generates an interior design based on those preferences, and provides options to view details, take notes, and more.*
 
-![High Level Application Diagram](assets/diagram.png "Diagram depicting the main logical flow of the App")
+Very High Level Application Diagram
+
+![High Level Application Diagram](assets/diagram_full.png "Diagram depicting the main logical flow of the App")
+
+Initial App Screens
 
 ![Three Screens of the App](assets/screens.png "Three screens of the application")
 
