@@ -24,7 +24,7 @@
 
 *Interior For Me is a fully functional iOS application that allows users to set their design preferences, generates an interior design based on those preferences, and provides options to view details, take notes, and more.*
 
-![High Level Application Diagram](assets/interior_design_app.png "Diagram depicting the main logical flow of the App")
+![High Level Application Diagram](assets/diagram.png "Diagram depicting the main logical flow of the App")
 
 ![Three Screens of the App](assets/screens.png "Three screens of the application")
 
@@ -48,11 +48,11 @@ The following are the requirements to run the code:
 
 ## Figma Prototype
 
-![Figma Prototype Designs]("https://www.figma.com/design/Y0VPup93c9fQbRlTt1CpEG/Mock-ups?node-id=0-1&t=xEwFU2y75Gcy5e3o-1")
+![Figma Prototype Designs](https://www.figma.com/design/Y0VPup93c9fQbRlTt1CpEG/Mock-ups?node-id=0-1&t=xEwFU2y75Gcy5e3o-1)
 
 ## App  Screenshots
 
-![Figma Application Screenshots]("https://www.figma.com/design/Ri4doNxVxT4YT1COHWjbmm/Untitled?node-id=0-1&t=hlN7WtRjx7vCdDSl-1")
+![Figma Application Screenshots](https://www.figma.com/design/Ri4doNxVxT4YT1COHWjbmm/Untitled?node-id=0-1&t=hlN7WtRjx7vCdDSl-1)
 
 ## License
 
