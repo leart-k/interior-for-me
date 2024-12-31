@@ -52,11 +52,12 @@ The following are the requirements to run the code:
 
 ## Figma Prototype
 
-![Figma Prototype Designs](https://www.figma.com/design/Y0VPup93c9fQbRlTt1CpEG/Mock-ups?node-id=0-1&t=xEwFU2y75Gcy5e3o-1)
+[Figma Prototype Designs](https://www.figma.com/design/Y0VPup93c9fQbRlTt1CpEG/Mock-ups?node-id=0-1&t=xEwFU2y75Gcy5e3o-1)
+
 
 ## App  Screenshots
 
-![Figma Application Screenshots](https://www.figma.com/design/Ri4doNxVxT4YT1COHWjbmm/Untitled?node-id=0-1&t=hlN7WtRjx7vCdDSl-1)
+[Figma Application Screenshots](https://www.figma.com/design/Ri4doNxVxT4YT1COHWjbmm/Untitled?node-id=0-1&t=hlN7WtRjx7vCdDSl-1)
 
 ## License
 
